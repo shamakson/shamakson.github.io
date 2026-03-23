@@ -1,6 +1,6 @@
 ---
 title: "ModE-Sim dataset and experiment subsets"
-excerpt: "Selected ModE-Sim variables, forcings, boundary conditions, and example run scripts are available through the World Data Center for Climate.<br/><img src='/images/mode-sim-preview.png'>"
+excerpt: "Selected ModE-Sim variables, forcings, boundary conditions, and example run scripts are available through the World Data Center for Climate."
 collection: portfolio
 ---
 
