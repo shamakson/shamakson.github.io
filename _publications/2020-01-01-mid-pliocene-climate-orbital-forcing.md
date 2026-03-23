@@ -3,7 +3,7 @@ title: "Sensitivity of mid-Pliocene climate to changes in orbital forcing and Pl
 collection: publications
 category: manuscripts
 permalink: /publication/2020-01-01-mid-pliocene-climate-orbital-forcing
-excerpt: 'Sensitivity of mid-Pliocene climate to orbital forcing and PlioMIP boundary conditions.'
+excerpt: ''
 date: 2020-01-01
 venue: 'Climate of the Past'
 paperurl: 'https://doi.org/10.5194/cp-16-1643-2020'
