@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Climate Sciences (Thesis grade: Insigni cum laude), University of Bern, Switzerland, 2023.
+* M.S. in Environmental Physics (Thesis grade: 1.0), University of Bremen, Germany, 2018
+* B.Tech. in Meteorology (Thesis grade: A), Federal University of Technology, Akure, Nigeria, 2022.
 
 Work experience
 ======
