@@ -3,7 +3,7 @@ title: "An ensemble reconstruction of global monthly sea surface temperature and
 collection: publications
 category: manuscripts
 permalink: /publication/2021-01-01-ensemble-reconstruction-sst-sea-ice
-excerpt: 'An ensemble reconstruction of global monthly sea surface temperature and sea ice concentration from 1000 to 1849.'
+excerpt: ''
 date: 2021-01-01
 venue: 'Scientific Data'
 paperurl: 'https://doi.org/10.1038/s41597-021-01043-1'
