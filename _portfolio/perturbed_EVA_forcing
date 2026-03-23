@@ -1,0 +1,12 @@
+---
+title: "Generation of perturbed volcanic forcing using EVA"
+excerpt: "Research software for generating perturbed volcanic forcing ensembles for ModE-Sim and ModE-RA.<br/><img src='/images/volcanic-forcing-preview.png'>"
+collection: portfolio
+---
+
+This software generates ensembles of volcanic forcing based on eruption timing and strength. It was developed for creating perturbed volcanic forcing experiments for ModE-Sim and ModE-RA.
+
+**Type:** Research software  
+**Release:** Zenodo, 2023  
+**Code archive:** [Zenodo record](https://doi.org/10.5281/zenodo.7669569)  
+**Source code:** [GitHub repository](https://github.com/shamakson/ModE-Sim-RA_volc_forcing/tree/1.0)
