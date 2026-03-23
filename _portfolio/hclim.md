@@ -1,7 +1,7 @@
 ---
 title: "HCLIM global historical climate database"
-excerpt: "A global historical climate database supporting climate reconstruction and historical climate analysis.<br/><img src='/images/hclim-preview.png'>"
-collection: portfolio
+excerpt: "A global historical climate database supporting climate reconstruction and historical climate analysis."
+collection: Dataset
 ---
 
 HCLIM is a global historical climate database designed to support climate reconstruction, reanalysis, and the study of historical climate variability.
