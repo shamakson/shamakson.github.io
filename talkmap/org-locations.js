@@ -35,6 +35,11 @@ var addressPoints = [
     8.7707865
   ],
   [
+    "Invited talk at Sustainable Places 2025<br />Sustainable Places 2025, Monte Rosa 91 Conference Centre; Milan, Italy",
+    45.4641943,
+    9.1896346
+  ],
+  [
     "Assessing High-Resolution Interactive Lake Modeling via Lake Constance\u2019s Influence on Local Climate<br />12th International Conference on Urban Climate; Rotterdam, The Netherlands",
     51.9244424,
     4.47775
