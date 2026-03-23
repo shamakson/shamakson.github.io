@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Efficient exploration of Climate Data Locally (FOCAL)<br />Building Digital Twin International Congress (BDTIC); Kaunas, Lithuania",
+    "Invited talk at the Building Digital Twin International Congress (BDTIC 2025)<br />Building Digital Twin International Congress (BDTIC); Kaunas, Lithuania",
     54.8982139,
     23.9044817
   ],
