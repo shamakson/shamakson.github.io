@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Eric Samakinwa"
   pronouns         : "he/him"  
-  bio              : "Climate Scientist at the Climate Service Center Germany (GERICS) Hamburg/Helmholtz-Zentrum Hereon. PhD from University of Bern."
+  bio              : "Climate Scientist at the Climate Service Center Germany (GERICS), Hamburg/Helmholtz-Zentrum Hereon. Ph.D in Climate Sciences from University of Bern."
   location         : "Hamburg, Germany"
   employer         : "Helmholtz-Zentrum Hereon"
   uri              : "https://shamakson.github.io"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
