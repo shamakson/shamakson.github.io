@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a climate scientist working on paleoclimate variability, hydroclimate extremes, ocean circulation, and climate data reconstruction. My research combines climate dynamics, statistical methods, reanalysis products, and numerical modeling to better understand variability across seasonal to centennial timescales.
+I am a climate scientist working on climate variability, extremes, and climate data reconstruction. My research combines climate dynamics, statistical methods, reanalysis products, and numerical modeling to better understand variability across seasonal to centennial timescales.
 
-My recent work has focused on global monthly sea surface temperature and sea ice reconstructions, paleo-reanalysis products, Atlantic jet stream variability, AMOC dynamics, and climate data tools for analysis and visualization.
+My recent work has focused on global monthly sea surface temperature and sea ice reconstructions, paleo-reanalysis products, heat extremes, Atlantic jet stream variability, and climate data tools for analysis and visualization.
 
 I am particularly interested in:
 - climate and hydroclimate variability
@@ -18,7 +18,16 @@ I am particularly interested in:
 - climate data analysis
 - data products, tools, and reproducible workflows
 
-You can find my publications, talks, teaching activities, datasets, and blog posts below.
+You can find recent updates and selected publications below.
+
+## Recent Blog Posts
+
+{% assign sorted_posts = site.posts | sort: "date" | reverse %}
+{% for post in sorted_posts limit:5 %}
+  {% include archive-single.html %}
+{% endfor %}
+
+[View all blog posts](/year-archive/)
 
 ## Selected Publications
 
@@ -28,39 +37,3 @@ You can find my publications, talks, teaching activities, datasets, and blog pos
 {% endfor %}
 
 [View all publications](/publications/)
-
-## Talks
-
-{% assign sorted_talks = site.talks | sort: "date" | reverse %}
-{% for post in sorted_talks limit:5 %}
-  {% include archive-single.html %}
-{% endfor %}
-
-[View all talks](/talks/)
-
-## Teaching
-
-{% assign sorted_teaching = site.teaching | sort: "date" | reverse %}
-{% for post in sorted_teaching limit:5 %}
-  {% include archive-single.html %}
-{% endfor %}
-
-[View all teaching](/teaching/)
-
-## Portfolio / Datasets
-
-{% assign sorted_portfolio = site.portfolio | sort: "date" | reverse %}
-{% for post in sorted_portfolio limit:5 %}
-  {% include archive-single.html %}
-{% endfor %}
-
-[View all portfolio items](/portfolio/)
-
-## Blog Posts
-
-{% assign sorted_posts = site.posts | sort: "date" | reverse %}
-{% for post in sorted_posts limit:5 %}
-  {% include archive-single.html %}
-{% endfor %}
-
-[View all blog posts](/year-archive/)
