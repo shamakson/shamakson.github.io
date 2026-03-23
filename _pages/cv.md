@@ -25,18 +25,24 @@ Work experience
   * University of Bern
   * Supervisor: Professor Stefan Brönnimann
 
-* Summer 2015: PhD Researcher
+* 2019 - 2023: PhD Researcher
   * University of Bern
   * Supervisor: Professor Stefan Brönnimann
+ 
+* 2018 - 2019: Scientist
+  * Alfred Wegener Institute, Bremerhaven
+  * Supervisor: Professor Gerit Lohmann
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Climate Modelling
+* Data Assimilation
+* Python
+* Bash scripting
+* LaTex
+* Linux
+* Version Control (git)
+* Cdo
 
 Publications
 ======
