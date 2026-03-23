@@ -3,7 +3,7 @@ title: "ModE-RA: a global monthly paleo-reanalysis of the modern era 1421 to 200
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-mode-ra-global-monthly-paleo-reanalysis
-excerpt: 'A global monthly paleo-reanalysis of the modern era from 1421 to 2008.'
+excerpt: ''
 date: 2024-01-01
 venue: 'Scientific Data'
 paperurl: 'https://doi.org/10.1038/s41597-023-02733-8'
