@@ -1,7 +1,7 @@
 ---
 title: 'Recognition as a 2024 reviewer for Earth and Space Science'
-date: 2025-01-01
-permalink: /posts/2025/03/earth-and-space-science-reviewer-recognition-2024/
+date: 2025-02-15
+permalink: /posts/2025/02/earth-and-space-science-reviewer-recognition-2024/
 tags:
   - recognition
   - celebration
