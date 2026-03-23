@@ -1,6 +1,6 @@
 ---
 title: "ClimeApp: Interactive visualization tool for ModE-RA"
-excerpt: "An interactive tool for exploring monthly global climate data from the ModE-RA paleo-reanalysis.<br/><img src='/images/climeapp-preview.png'>"
+excerpt: "An interactive tool for exploring monthly global climate data from the ModE-RA paleo-reanalysis."
 collection: portfolio
 ---
 
