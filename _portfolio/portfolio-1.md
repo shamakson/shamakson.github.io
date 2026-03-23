@@ -1,7 +1,7 @@
 ---
 title: "Global monthly sea surface temperature and sea ice concentration reconstruction (1000–1849)"
 excerpt: "A reconstructed global monthly dataset of sea surface temperature and sea ice concentration for 1000–1849"
-collection: portfolio
+collection: Dataset
 ---
 
 This dataset provides a global monthly reconstruction of sea surface temperature and sea ice concentration for the period 1000–1849. It is designed for historical climate analysis and model evaluation.
