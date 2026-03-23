@@ -3,7 +3,7 @@ title: "Contribution of the coupled atmosphere-ocean–sea ice–vegetation mode
 collection: publications
 category: manuscripts
 permalink: /publication/2020-01-01-cosmos-pliomip2
-excerpt: 'Contribution of the coupled atmosphere-ocean–sea ice–vegetation model COSMOS to PlioMIP2.'
+excerpt: ''
 date: 2020-01-01
 venue: 'Climate of the Past'
 paperurl: 'https://doi.org/10.5194/cp-16-2275-2020'
