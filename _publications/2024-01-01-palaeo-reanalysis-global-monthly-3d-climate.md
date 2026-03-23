@@ -3,7 +3,7 @@ title: "A palaeo-reanalysis of global monthly 3D climate since 1421 CE"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-palaeo-reanalysis-global-monthly-3d-climate
-excerpt: 'A palaeo-reanalysis of global monthly three-dimensional climate since 1421 CE.'
+excerpt: ''
 date: 2024-01-01
 venue: 'Past Global Changes Magazine'
 paperurl: 'https://doi.org/10.22498/pages.32.1.42'
