@@ -1,6 +1,6 @@
 ---
 title: 'Recognized as a 2025 reviewer for Geophysical Research Letters'
-date: 026-03-13
+date: 2026-03-13
 permalink: /posts/2026/03/grl-reviewer-recognition-2025/
 tags:
   - peer review
