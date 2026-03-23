@@ -7,33 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-I am a climate scientist working on climate variability, extremes, and climate data reconstruction. My research combines climate dynamics, statistical methods, reanalysis products, and numerical modeling to better understand variability across seasonal to centennial timescales.
+<p>I am a climate scientist working on paleoclimate variability, hydroclimate extremes, ocean circulation, and climate data reconstruction. My research combines climate dynamics, statistical methods, reanalysis products, and numerical modeling to better understand variability across seasonal to centennial timescales.</p>
 
-My recent work has focused on global monthly sea surface temperature and sea ice reconstructions, paleo-reanalysis products, heat extremes, Atlantic jet stream variability, and climate data tools for analysis and visualization.
+<p>My recent work has focused on global monthly sea surface temperature and sea ice reconstructions, paleo-reanalysis products, Atlantic jet stream variability, AMOC dynamics, and climate data tools for analysis and visualization.</p>
 
-I am particularly interested in:
-- climate and hydroclimate variability
-- climate and public health
-- climate reanalysis and reconstruction
-- climate data analysis
-- data products, tools, and reproducible workflows
+<p>I am particularly interested in:</p>
 
-You can find recent updates and selected publications below.   
+<ul>
+  <li>climate and hydroclimate variability</li>
+  <li>climate and public health</li>
+  <li>climate reanalysis and reconstruction</li>
+  <li>climate data analysis</li>
+  <li>data products, tools, and reproducible workflows</li>
+</ul>
 
-## Recent Blog Posts
+<p>You can find recent updates and selected publications below.</p>
+
+<h2>Recent Blog Posts</h2>
 
 {% assign sorted_posts = site.posts | sort: "date" | reverse %}
 {% for post in sorted_posts limit:5 %}
   {% include archive-single.html %}
 {% endfor %}
 
-[Read the post](/_posts/2025-02-2027-press-coverage-jet-stream-study.md)
-
-## Selected Publications
+<h2>Selected Publications</h2>
 
 {% assign sorted_pubs = site.publications | sort: "date" | reverse %}
 {% for post in sorted_pubs limit:5 %}
   {% include archive-single.html %}
 {% endfor %}
 
-[View all publications](/publications/)
+<p><a href="/publications/">View all publications</a></p>
