@@ -3,7 +3,7 @@ title: "Multi-annual variability of a new-proxy constrained modeled AMOC from 14
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-01-multi-annual-variability-modeled-amoc
-excerpt: 'Multi-annual variability of a new-proxy constrained modeled AMOC from 1450 to 1780.'
+excerpt: ''
 date: 2023-01-01
 venue: 'Climate of the Past Discussions'
 paperurl: 'https://doi.org/10.5194/cp-2023-67'
