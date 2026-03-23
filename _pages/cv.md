@@ -17,20 +17,17 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 - Present: Scientist
+  * Climate Service Center GERICS, Helmhotz-zentrum Hereon, Geesthacht, Germany
+  * Supervisor: Dr. Diana Rechid
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023 - 2004: Early PostDoc.
+  * University of Bern
+  * Supervisor: Professor Stefan Brönnimann
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: PhD Researcher
+  * University of Bern
+  * Supervisor: Professor Stefan Brönnimann
   
 Skills
 ======
