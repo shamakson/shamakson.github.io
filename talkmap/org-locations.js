@@ -5,18 +5,18 @@ var addressPoints = [
     23.9044817
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Sea Surface Temperature Reconstructions<br />Mini-symposium: Global Climate of the Past Six Centuries; Bern, Switzerland",
+    46.9484742,
+    7.4521749
+  ],
+  [
+    "Multi-annual variability of a new proxy-constrained modeled AMOC from 1450-1780 CE<br />European Geosciences Union Assembly; Vienna, Austria",
+    48.2083537,
+    16.3725042
   ],
   [
     "Assessing High-Resolution Interactive Lake Modeling via Lake Constance\u2019s Influence on Local Climate<br />12th International Conference on Urban Climate; Rotterdam, The Netherlands",
     51.9244424,
     4.47775
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
   ]
 ];
