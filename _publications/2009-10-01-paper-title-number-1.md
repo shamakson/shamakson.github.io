@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "An Assessment of Urban Heat Island in Akure Using Geospatial Techniques"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2013-01-01-urban-heat-island-akure
+excerpt: 'An assessment of urban heat island in Akure using geospatial techniques.'
+date: 2013-01-01
+venue: 'IOSR Journal of Environmental Science, Toxicology and Food Technology'
+paperurl: 'https://doi.org/10.9790/2402-0632434'
+citation: 'Aderoju, O., Samakinwa, E., and Dris, I. (2013). "An Assessment of Urban Heat Island in Akure Using Geospatial Techniques." <i>IOSR Journal of Environmental Science, Toxicology and Food Technology</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
