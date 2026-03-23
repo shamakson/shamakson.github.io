@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant on Python for climate data analysis"
+title: "Python for climate data analysis"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-spring-python-climate-data-analysis
