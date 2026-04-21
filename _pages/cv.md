@@ -31,7 +31,7 @@ Work experience
  
 * 2018 - 2019: Scientist
   * Alfred Wegener Institute, Bremerhaven
-  * Supervisor: Professor Gerit Lohmann
+  * Supervisor: Professor Gerrit Lohmann
   
 Skills
 ======
