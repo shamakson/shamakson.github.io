@@ -17,4 +17,4 @@ I participated in the EGU General Assembly 2026 in Vienna, Austria, with four co
 - [Changing humid heat exposure in Germany – where senior citizens will be most affected and why](https://doi.org/10.5194/egusphere-egu26-18375)
 - [Urban Heat Effects and Targeted Adaptation under Extreme Events in the Lakeside City: A Case Study of Konstanz, Germany](https://doi.org/10.5194/egusphere-egu26-20489)
 
-These contributions span climate data tools, urban heat, humid heat exposure, and climate risk in Germany.
+
