@@ -10,7 +10,7 @@ tags:
   - heat stress
 ---
 
-I participated in the EGU General Assembly 2026 with four contributions:
+I participated in the EGU General Assembly 2026 in Vienna, Austria, with four contributions. My participation covered collaborative work on climate data tools, extreme summer heat, humid heat exposure, and urban adaptation, reflecting current research at the interface of climate science, impacts, and decision support.
 
 - [FOCAL Urban Pilot: Efficient exploration of climate data locally for data-driven decision-support in urban climate adaptation planning](https://doi.org/10.5194/egusphere-egu26-14450)
 - [Mean-state warming loads Germany’s extreme-summer heat burden](https://doi.org/10.5194/egusphere-egu26-17267)
