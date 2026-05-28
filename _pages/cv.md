@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Climate Sciences (Thesis grade: Insigni cum laude), University of Bern, Switzerland, 2023.
-* M.Sc. in Environmental Physics (Thesis grade: 1.0), University of Bremen, Germany, 2018
+* M.Sc. in Environmental Physics (Thesis grade: 1.0), University of Bremen, Germany, 2018.
 * B.Tech. in Meteorology (Thesis grade: A), Federal University of Technology, Akure, Nigeria, 2012.
 
 Work experience
@@ -21,7 +21,7 @@ Work experience
   * Climate Service Center GERICS, Helmhotz-zentrum Hereon, Geesthacht, Germany
   * Supervisor: Dr. Diana Rechid
 
-* 2023 - 2004: Early PostDoc.
+* 2023 - 2024: Early PostDoc.
   * University of Bern
   * Supervisor: Professor Stefan Brönnimann
 
