@@ -3,7 +3,7 @@ title: "Mean-state warming loads Germany’s extreme summer heat burden"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-mean-state-warming-germany-heat-burden
-excerpt: "An observation-based assessment of how mean-state warming increases Germany's extreme summer heat burden across global-warming levels."
+excerpt: 
 date: 2026-09-17
 venue: "Environmental Research Letters"
 paperurl: "https://doi.org/10.1088/1748-9326/aea4c9"
